@@ -545,16 +545,25 @@ img {
   width: 80%;
 }
 
+.skills__php {
+  width: 85%;
+}
+
+.skills__laravel {
+  width: 85%;
+}
+
+
 .skills__node {
   width: 80%;
 }
 
-.skills__firebase {
-  width: 60%;
+.skills__csh {
+  width: 70%;
 }
 
-.skills__pythons {
-  width: 95%;
+.skills__sc {
+  width: 85%;
 }
 
 .skills__frameworks {
@@ -578,7 +587,7 @@ img {
 }
 
 .skills__dav {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__python {
@@ -594,31 +603,23 @@ img {
 }
 
 .skills__sql {
-  width: 95%;
-}
-
-.skills__gcp {
   width: 85%;
 }
 
-.skills__aws {
-  width: 75%;
+.skills__bc{
+  width: 85%;
 }
 
-.skills__gpu {
-  width: 90%;
-}
-
-.skills__pt {
-  width: 72%;
+.skills__gc{
+  width: 80%;
 }
 
 .skills__git {
-  width: 90%;
+  width: 70%;
 }
 
 .skills__linux {
-  width: 90%;
+  width: 75%;
 }
 
 .skills__sd {
